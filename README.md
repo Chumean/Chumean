@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! Its David 👋
 
 <!--
 **Chumean/Chumean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi again! I'm David, a software engineer with a flair for creativity and a background as diverse as my coding interests. I graduated from Stockton in 2017 and honed my skills at App Academy in 2023. During my coding journey, I solo-designed an online game store and collaborated on a group project, bringing an e-groceries shop to life. These experiences taught me the art of problem-solving, and I now see coding as a series of puzzles waiting to be solved. There's nothing quite like the feeling of making things work! In the fast-paced world of tech, I've fallen in love with learning new skills. Whether it's diving into the intricacies of JavaScript or mastering the elegance of Python, I'm always up for a challenge. My bootcamp experience revealed my love/hate relationship with creating comments and reviews for websites. Crafting thoughtful insights brings me joy, while CSS sometimes tests my patience.
